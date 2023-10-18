@@ -1,0 +1,67 @@
+@media (max-width: 1000px) {
+    #hubungisaya {
+        width: auto;
+    }
+    
+    .col-md-8 {
+        width: 100%;
+        text-align: left;
+        margin: auto;
+    }
+
+    .body{
+        max-width: 100%;
+    }
+
+	#ketorganisasi{
+		width: auto;
+		float: none;
+        padding: auto;
+        margin: auto;
+	}
+}
+
+@media screen and (max-width:576px){
+     .body {
+        max-width: 100%;
+    }
+    #hubungisaya {
+        width: auto;
+    }
+
+    .jumbotron{
+        width: auto;
+		float: none;
+    }
+
+	#ketorganisasi{
+		width: auto;
+		float: none;
+        font-size: 13px;
+        padding: auto;
+        margin-left: -10px;
+	}
+
+
+    #logoosppms, #logohmps {
+        width: 75px;
+        margin: auto; 
+    }
+
+    #logoosppms {
+        height: 68px;
+    }
+
+    #kontakperson {
+        width: 50%;
+    }
+
+	#sidebar{
+		width: auto;
+		float: none;
+	}
+
+    .footer{
+        height: 300px;
+    }
+}

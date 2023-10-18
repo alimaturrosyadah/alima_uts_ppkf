@@ -1,0 +1,128 @@
+.body {
+    max-width: 1360px;
+}
+#headeratas {
+    background-color: #041536;
+    width: 100%;
+}  
+
+#headeratas a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#paragraf1{
+    font : 'Quicksand';
+    background-image:url(IMG-20200615-WA0100.jpg);
+    background-size: cover;
+    height: 500px;
+    padding-top: 230px;
+    max-width: 1360px;
+    color: white;
+    opacity: 1;
+}
+
+.col-md-8{
+    font-size: 15px;
+    margin-left: 185px;
+    padding-top: 50px;
+}
+.jumbotron {
+    background-color:  #171b1b;
+    background-size: cover;
+}
+
+#isibio {
+    color: #171b1b;
+}
+
+#ket1 {
+    margin:auto;
+    width: 300px;
+}
+
+#ket2 {
+    margin:auto;
+    width: 280px;
+    padding-right: 30px;
+}
+
+.rounded-circle{
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 250px;
+}
+
+#logohmps{
+    width: 130px;
+    margin: auto;
+}
+
+#logoosppms{
+    width: 130px;
+    height: 120px;
+    margin: auto;  
+}
+
+#paragraf2 {
+    padding-top: 50px;
+    background-color: #9ca8c9;
+    background-size: cover;
+    max-width: 1360px;
+}
+#ketorganisasi{
+    font-size:  17px;
+    width: auto;
+    margin: auto;
+}
+#button{
+    margin-top: 10px;
+    background-color: #6179ad85;
+}
+
+#row1 {
+    margin: auto;
+    background-size: cover;
+}
+
+#riwayatorganisasi {
+    text-align: center;
+    margin: auto;
+    background-size: cover;
+}
+#row2 {
+    background-color: #2b2e2e;
+}
+
+#row3 {
+    background-color:rgb(94, 91, 91);
+}
+
+#sosmed {
+    margin: auto;
+    width: 20rem;
+}
+
+#twt{
+    padding-bottom: 30px;
+}
+
+#kontakperson {
+   width: 500px;
+   margin: auto;
+}
+
+#hubungisaya {
+    background-color: rgb(94, 91, 91);
+}
+
+.footer {
+    background-color: #f6faf9;
+    color: #0f0f0f;
+    height:100px;
+    text-align: center;
+    padding: 25px;
+}
+
+  
